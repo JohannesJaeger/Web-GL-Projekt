@@ -1,1 +1,1 @@
-# Web-GL-Projekt
+Must be run on a webserver, or the paths must be changed to load the js scripts and shaders
